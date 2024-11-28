@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dormitory>
+  <!-- Студент 1 -->
+  <Student>
+    <FullName>Іваненко Іван Іванович</FullName>
+    <Faculty>Факультет прикладної математики</Faculty>
+    <Department>Кафедра комп'ютерних наук</Department>
+    <Course>2</Course>
+    <Room>101</Room>
+    <Block>2</Block>
+    <CheckInDate>2023-09-01</CheckInDate>
+    <CheckOutDate>2024-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 2 -->
+  <Student>
+    <FullName>Петренко Олена Михайлівна</FullName>
+    <Faculty>Факультет прикладної математики</Faculty>
+    <Department>Кафедра комп'ютерних наук</Department>
+    <Course>3</Course>
+    <Room>102</Room>
+    <Block>2</Block>
+    <CheckInDate>2023-09-01</CheckInDate>
+    <CheckOutDate>2024-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 3 -->
+  <Student>
+    <FullName>Сидоренко Андрій Васильович</FullName>
+    <Faculty>Факультет економіки</Faculty>
+    <Department>Кафедра фінансів</Department>
+    <Course>1</Course>
+    <Room>305</Room>
+    <Block>3</Block>
+    <CheckInDate>2024-01-15</CheckInDate>
+    <CheckOutDate>2024-12-20</CheckOutDate>
+  </Student>
+
+  <!-- Студент 4 -->
+  <Student>
+    <FullName>Коваленко Марія Дмитрівна</FullName>
+    <Faculty>Факультет економіки</Faculty>
+    <Department>Кафедра фінансів</Department>
+    <Course>4</Course>
+    <Room>306</Room>
+    <Block>3</Block>
+    <CheckInDate>2024-01-15</CheckInDate>
+    <CheckOutDate>2024-12-20</CheckOutDate>
+  </Student>
+
+  <!-- Студент 5 -->
+  <Student>
+    <FullName>Гнатюк Микола Степанович</FullName>
+    <Faculty>Факультет біології</Faculty>
+    <Department>Кафедра молекулярної біології</Department>
+    <Course>2</Course>
+    <Room>401</Room>
+    <Block>4</Block>
+    <CheckInDate>2023-09-01</CheckInDate>
+    <CheckOutDate>2024-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 6 -->
+  <Student>
+    <FullName>Шевченко Юлія Вікторівна</FullName>
+    <Faculty>Факультет біології</Faculty>
+    <Department>Кафедра молекулярної біології</Department>
+    <Course>2</Course>
+    <Room>402</Room>
+    <Block>4</Block>
+    <CheckInDate>2023-09-01</CheckInDate>
+    <CheckOutDate>2024-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 7 -->
+  <Student>
+    <FullName>Мельник Артем Олегович</FullName>
+    <Faculty>Факультет права</Faculty>
+    <Department>Кафедра кримінального права</Department>
+    <Course>3</Course>
+    <Room>302</Room>
+    <Block>3</Block>
+    <CheckInDate>2022-09-01</CheckInDate>
+    <CheckOutDate>2024-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 8 -->
+  <Student>
+    <FullName>Зайцева Катерина Григорівна</FullName>
+    <Faculty>Факультет журналістики</Faculty>
+    <Department>Кафедра масових комунікацій</Department>
+    <Course>4</Course>
+    <Room>104</Room>
+    <Block>1</Block>
+    <CheckInDate>2021-09-01</CheckInDate>
+    <CheckOutDate>2025-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 9 -->
+  <Student>
+    <FullName>Бондаренко Дмитро Сергійович</FullName>
+    <Faculty>Факультет права</Faculty>
+    <Department>Кафедра кримінального права</Department>
+    <Course>3</Course>
+    <Room>303</Room>
+    <Block>3</Block>
+    <CheckInDate>2022-09-01</CheckInDate>
+    <CheckOutDate>2024-06-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 10 -->
+  <Student>
+    <FullName>Лисенко Анастасія Віталіївна</FullName>
+    <Faculty>Факультет міжнародних відносин</Faculty>
+    <Department>Кафедра дипломатії</Department>
+    <Course>1</Course>
+    <Room>601</Room>
+    <Block>6</Block>
+    <CheckInDate>2024-02-01</CheckInDate>
+    <CheckOutDate>2024-12-20</CheckOutDate>
+  </Student>
+
+  <!-- Студент 11 -->
+  <Student>
+    <FullName>Лимак Микола Андрійович</FullName>
+    <Faculty>Факультет математики</Faculty>
+    <Department>Кафедра арифметики</Department>
+    <Course>1</Course>
+    <Room>405</Room>
+    <Block>2</Block>
+    <CheckInDate>2022-05-01</CheckInDate>
+    <CheckOutDate>2022-09-20</CheckOutDate>
+  </Student>
+
+  <!-- Студент 12 -->
+  <Student>
+    <FullName>Припак Яна Віталіївна</FullName>
+    <Faculty>Факультет комп'ютерних наук</Faculty>
+    <Department>Кафедра програмної інженерії</Department>
+    <Course>4</Course>
+    <Room>111</Room>
+    <Block>5</Block>
+    <CheckInDate>2021-12-13</CheckInDate>
+    <CheckOutDate>2025-02-20</CheckOutDate>
+  </Student>
+
+  <!-- Студент 13 -->
+  <Student>
+    <FullName>Авраменко Денис Романович</FullName>
+    <Faculty>Факультет права</Faculty>
+    <Department>Кафедра дипломатії</Department>
+    <Course>3</Course>
+    <Room>303</Room>
+    <Block>2</Block>
+    <CheckInDate>2006-05-01</CheckInDate>
+    <CheckOutDate>2010-11-20</CheckOutDate>
+  </Student>
+
+  <!-- Студент 14 -->
+  <Student>
+    <FullName>Литрун Тарас Потапович</FullName>
+    <Faculty>Факультет прикладної математики</Faculty>
+    <Department>Кафедра геометрії</Department>
+    <Course>3</Course>
+    <Room>220</Room>
+    <Block>4</Block>
+    <CheckInDate>2011-17-09</CheckInDate>
+    <CheckOutDate>2014-05-30</CheckOutDate>
+  </Student>
+
+  <!-- Студент 15 -->
+  <Student>
+    <FullName>Петров Олег Олександрович</FullName>
+    <Faculty>Факультет журналістики</Faculty>
+    <Department>Кафедра папарації</Department>
+    <Course>2</Course>
+    <Room>413</Room>
+    <Block>5</Block>
+    <CheckInDate>2021-11-01</CheckInDate>
+    <CheckOutDate>2023-12-26</CheckOutDate>
+  </Student>
+</Dormitory>
